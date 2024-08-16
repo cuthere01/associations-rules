@@ -19,7 +19,7 @@ pip install efficient_apriori
 #### fpgrowth
 
 ```bash
-pip install fpgrowth_py pandas
+pip install fpgrowth_py
 ```
 
 #### Для версии с датасетом
